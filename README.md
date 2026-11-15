@@ -170,3 +170,17 @@ University of Europe for Applied Sciences, Germany
 Version 1: Implemented and successfully played.
 
 Version 2: Game-state management and validation implemented and tested; interactive interface under development and testing.
+
+## 🖥️ Application Screenshots
+
+### Version 2 – Game Dashboard
+![Dashboard](screenshots/version2_dashboard.png)
+
+### Puzzle Challenges
+![Puzzle Challenges](screenshots/version2_puzzles.png)
+
+### Player Inventory
+![Player Inventory](screenshots/version2_inventory.png)
+
+### Successful Escape
+![Successful Escape](screenshots/version2_success.png)
