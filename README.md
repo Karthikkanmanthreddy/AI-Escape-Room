@@ -167,9 +167,10 @@ University of Europe for Applied Sciences, Germany
 
 ## 📌 Project Status
 
-Version 1: Implemented and successfully played.
-
-Version 2: Game-state management and validation implemented and tested; interactive interface under development and testing.
+- Version 1: Implemented and tested.
+- Version 2: Implemented with Python-based
+  game-state management, puzzle validation,
+  inventory management and AI integration.
 
 ## 🖥️ Application Screenshots
 
